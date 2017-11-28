@@ -1,4 +1,4 @@
 Git a distributed version control system.
-Git free software.John rambo
+Git free software.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
